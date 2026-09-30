@@ -203,27 +203,6 @@ CETV4,http://82.156.245.233:30008/923287339
 剧集_地下交通站,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342433
 剧集_邻里一家亲,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342426
 搞笑_陈翔六点半,http://tv.zimtv.cn/tv/player/api/huya.php?id=11274154
-解说_鹿哥电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=24396360
-解说_斌哥漫说,http://tv.zimtv.cn/tv/player/api/huya.php?id=18632116
-解说_续哥说电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=24396472
-解说_小川侃电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=15870999
-解说_阿良说剧,http://tv.zimtv.cn/tv/player/api/huya.php?id=20488841
-解说_鱼丸电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=16615910
-解说_阿斗说电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=13303478
-解说_扁豆看电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=16028551
-解说_乌贼说电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=16604522
-解说_大象放映室,http://tv.zimtv.cn/tv/player/api/huya.php?id=21277391
-解说_科幻梦工场,http://tv.zimtv.cn/tv/player/api/huya.php?id=15152155
-解说_亮哥讲电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=16144175
-解说_越哥说电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=15894162
-解说_小冉看电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=17341907
-解说_阿翔说电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=16868935
-解说_虎妞说电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=20343144
-解说_涵哥评电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=16865726
-解说_老皮讲电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=16968572
-解说_默爷侃电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=17204307
-解说_冷君说电影,http://tv.zimtv.cn/tv/player/api/huya.php?id=16739452
-解说_恐怖电影解说,http://tv.zimtv.cn/tv/player/api/huya.php?id=16741179
 许氏三杰,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602033
 许冠英,http://tv.zimtv.cn/tv/player/api/huya.php?id=11601972
 五福星,http://tv.zimtv.cn/tv/player/api/huya.php?id=11282233
@@ -241,21 +220,6 @@ CETV4,http://82.156.245.233:30008/923287339
 徐克,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352909
 黄渤,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352876
 斗罗大陆,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352906
-音乐石榴「音乐」,http://tv.zimtv.cn/tv/player/api/huya.php?id=17091681
-音乐速递「音乐」,http://tv.zimtv.cn/tv/player/api/huya.php?id=19439762
-治愈•放松「音乐」,http://tv.zimtv.cn/tv/player/api/huya.php?id=21241811
-阅读•学习「音乐」,http://tv.zimtv.cn/tv/player/api/huya.php?id=21241813
-电视剧•1「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=21277391
-电视剧•2「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=25018873
-电影•1「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=20289754
-电影•2「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=24983280
-电影•3「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=24396428
-动漫•1「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=19757963
-恐怖电影「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=23419131
-漫威「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=17089779
-美剧「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=20488841
-七龙珠「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=25650806
-止戈电影「解说」,http://tv.zimtv.cn/tv/player/api/huya.php?id=19863777
 挨饿德•1「其他」,http://tv.zimtv.cn/tv/player/api/huya.php?id=20985858
 挨饿德•2「其他」,http://tv.zimtv.cn/tv/player/api/huya.php?id=17693860
 互扇巴掌大赛「其他」,http://tv.zimtv.cn/tv/player/api/huya.php?id=20072873
@@ -311,9 +275,7 @@ CETV4,http://82.156.245.233:30008/923287339
 门头沟电视台,http://route.079915.xyz:4022/rtp/239.3.1.59:8001
 延庆电视台,http://route.079915.xyz:4022/rtp/239.3.1.187:8001
 
-广东地区,#genre#
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8
-广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
+
 浙江地区,#genre#
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
@@ -346,33 +308,15 @@ CETV4,http://82.156.245.233:30008/923287339
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-江苏地区,#genre#
-南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
-南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
-南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
-南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
-南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
-无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
-无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
-无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
-无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
-宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 
 
 
 
 
-河北地区,#genre#
-邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
-邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-兴隆影视,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
-兴隆影视,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
-迁西综合,https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
-迁西农业,https://jwcdnqx.hebyun.com.cn/live/qxny/1500k/tzwj_video.m3u8
-青县综合,http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
+
+
+
+
 
 河南地区,#genre#
 河南卫视,https://tv1288.xyz/hntv.php?id=hnws
