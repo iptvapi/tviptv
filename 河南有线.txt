@@ -278,7 +278,6 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u
 南阳科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226620/1.m3u8
 唐河电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227063/1.m3u8
 淅川电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226631/1.m3u8
-嘉佳卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226601/1.m3u8
 方城电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227254/1.m3u8
 新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226534/1.m3u8
 
@@ -330,6 +329,7 @@ CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226587/1.m3u8
 卡酷少儿,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226640/1.m3u8
 优漫卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226606/1.m3u8
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/1.m3u8
+嘉佳卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226601/1.m3u8
 乐游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226536/1.m3u8
 东方财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/1.m3u8
 都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/1.m3u8
